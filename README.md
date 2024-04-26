@@ -2,6 +2,4 @@ This is a basic website made in accordance to [this](https://www.theodinproject.
 
 **Website Structure:**
 
-Homepage
- --> Cheesecake recipe
- --> Boiled Eggs Recipe
+Homepage that contains both a Cheesecake recipe page and a Boiled Eggs recipe page.
