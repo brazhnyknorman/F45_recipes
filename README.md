@@ -1,0 +1,7 @@
+This is a basic website made in accordance to [this](https://www.theodinproject.com/lessons/foundations-recipes) lesson.
+
+**Website Structure:**
+
+Homepage
+ --> Cheesecake recipe
+ --> Boiled Eggs Recipe
