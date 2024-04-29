@@ -1,0 +1,18 @@
+h1, h2 {
+  color: blueviolet;
+}
+
+a > h2 {
+  color: rgb(72, 175, 24);
+}
+
+.Homepage {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: cornsilk;
+  text-align: center;
+}
+
+.Recipe {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: cornsilk;
+}
